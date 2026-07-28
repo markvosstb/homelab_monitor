@@ -1,0 +1,15 @@
+
+name: ibn5100
+site: vossdev.com
+interval: 30s
+services:
+  - name: jellyfin
+    subdomain: jellyfin
+  - name: nextcloud
+    subdomain: cloud
+  - name: vaultwarden
+    subdomain: vault
+  - name: minecraft
+    subdomain: mc
+  - name: bluemap
+    subdomain: bluemap
